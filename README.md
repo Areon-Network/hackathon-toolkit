@@ -21,7 +21,7 @@ This repository is a curated collection of powerful tools and resources carefull
 - ### Hardhat Template
   Hardhat is a tool used to build & deploy contracts on an EVM-chain, in this project template you'll get everything you need in order to deploy an app on Areon without having the burden of configuration.
   
-  [Download Repository (\.zip)](https://github.com/Areon-Network/ARCs/archive/refs/heads/main.zip)
+  [Download Repository (\.zip)](https://github.com/Areon-Network/Hardhat-Template/archive/refs/heads/main.zip)
   
 - ### Assets & MediaKit
   If you ever fancy using Areon's logo and/or name in anywhere of your project you might need official assets.
